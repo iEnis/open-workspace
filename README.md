@@ -20,3 +20,7 @@ Users appreciate release notes as you update your extension.
 ### 1.0.0
 
 Initial release of Open Workspace
+
+### 1.0.1
+
+Added Linux and Mac support
